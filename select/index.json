@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "サンキュー！！",
+  "base_artist": "HOME MADE 家族",
+  "createdAt": "2026-03-17T07:52:05.762585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンキュー・フォー・ビーイング・ア・フレンド",
+      "artist": "Andrew Gold",
+      "has_synced": false,
+      "path": "select/01_サンキュー・フォー・ビーイング・ア・フレンド_Andrew_Gold.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サンキュー!! (Reborn)",
+      "artist": "HOME MADE 家族",
+      "has_synced": true,
+      "path": "select/02_サンキュー!!_(Reborn)_HOME_MADE_家族.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サンキュー!!",
+      "artist": "HOME MADE 家族",
+      "has_synced": true,
+      "path": "select/03_サンキュー!!_HOME_MADE_家族.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サンキュー!!",
+      "artist": "HOME MADE KAZOKU",
+      "has_synced": true,
+      "path": "select/04_サンキュー!!_HOME_MADE_KAZOKU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サンキュー サマーラブ",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/05_サンキュー_サマーラブ_KARA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サンキュー サマーラブ(Instrumental)",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/06_サンキュー_サマーラブ(Instrumental)_KARA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サンキュー・ベイビー",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/07_サンキュー・ベイビー_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サンキュー!!",
+      "artist": "HOME MADE 家族",
+      "has_synced": true,
+      "path": "select/08_サンキュー!!_HOME_MADE_家族.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サンキュー。",
+      "artist": "Sakurako Ohara",
+      "has_synced": true,
+      "path": "select/09_サンキュー。_Sakurako_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サンキュー。 - Thank You",
+      "artist": "Sakurako Ohara",
+      "has_synced": true,
+      "path": "select/10_サンキュー。_-_Thank_You_Sakurako_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サンキュー!! (reborn)",
+      "artist": "home made 家族",
+      "has_synced": true,
+      "path": "select/11_サンキュー!!_(reborn)_home_made_家族.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サンキュー！！",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/12_サンキュー!!_HOME_MADE_家族.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "サンキュー サマーラブ(Instrumental)",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/13_サンキュー_サマーラブ(Instrumental)_KARA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1. サンキュー!!",
+      "artist": "HOME MADE 家族",
+      "has_synced": true,
+      "path": "select/14_1._サンキュー!!_HOME_MADE_家族.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "サンキュー・ベイビー (Complete Version)",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/15_サンキュー・ベイビー_(Complete_Version)_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "サンキュー！！",
+      "artist": "Home Made Kazoku",
+      "has_synced": true,
+      "path": "select/16_サンキュー!!_Home_Made_Kazoku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サンキュー!!",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/pl_01_サンキュー!!_HOME_MADE_家族.txt"
+    }
+  ]
+}
